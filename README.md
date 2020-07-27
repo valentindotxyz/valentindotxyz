@@ -11,3 +11,5 @@ At the end of the day, **I'm looking to be part of something meaningful that giv
 You can contact me at valentin@hey.com or on [Twitter](https://twitter.com/valentindotxyz) and [Linkedin](https://linkedin.com/in/valentindotxyz).
 
 Oh, and by the way, I'm also part of [Out in Tech](https://outintech.com) 🏳️‍🌈.
+
+<img align="left" width="128" src="https://p-eWFM75p.b2.n0.cdn.getcloudapp.com/items/geuzjYLw/Screenshot%202020-07-27%20at%2012.59.59.png">
