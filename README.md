@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Valentin, 28, and currently live in the beautiful city of **Lille, France**.
+I'm Valentin, 28, and live in the beautiful city of **Lille, France**.
 
-I have worked for several years as a **Full-Stack Web Developer**, sometimes focusing on the backend part and others on the frontend one. In the end, I found interest in working on both, owning on a feature from A to Z instead of focusing on one aspect.
+Today I work at Algolia that I joined in June 2018 as a Solutions Engineer to help our customers integrate Algolia's features into their platforms. Since June 2019, I got back to R&D track as a Software Engineer in the Dashboard Team, used by our +9,500 customers worldwide.
 
-Today I work at **Algolia**, that I primarly joined as a **Solution Engineer**, helping our customers to integrate Algolia's features into their platforms. Since June '19, I continued as **Software Engineer**, working on Algolia's Dashboard, used by more than 9,000 customers.
+With a product mindset, I don't see coding as an end in itself but rather a means to bring a solution to a broader problem that needs to be solved.
 
 You can contact me at valentin@hey.com, on [Twitter](https://twitter.com/valentindotxyz) or on [Linkedin](https://linkedin.com/in/valentindotxyz).
 
