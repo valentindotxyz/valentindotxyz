@@ -9,3 +9,5 @@ With a product mindset, I don't see coding as an end in itself but rather a mean
 You can contact me at valentin@hey.com, on [Twitter](https://twitter.com/valentindotxyz) or on [Linkedin](https://linkedin.com/in/valentindotxyz).
 
 Oh and by the way, I'm also part of the [Out in Tech](https://outintech.com) Community 🏳️‍🌈.
+
+![](https://api.kindspeech.org/v1/badge)
